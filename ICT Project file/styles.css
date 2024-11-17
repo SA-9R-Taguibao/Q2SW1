@@ -1,0 +1,27 @@
+  body{
+    background-color: darkslategray;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9shOfRrmINWJHVHnUvfV9YUiUI1A1zeO-QA&s);
+  }
+
+  h2 {
+    font-family: serif;
+    color: red;
+    text-shadow: 2.8px 2.8px #D30000;
+    font-size:65px;
+
+  }
+  th {
+    font-family: serif;
+    color: red;
+  }
+
+  p {
+    font-family: serif;
+    color: red;
+    font-size: 20px;
+  }
+
+  td {
+    font-family: serif;
+    color: red;
+  }
